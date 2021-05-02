@@ -80,7 +80,7 @@ Jeu réalisé en 2017/2018 avec Alexandre Leblond, Mathieu Laparra et Emilien Vi
 
 1. Cloner le dépôt sur votre machine
    ```sh
-   git clone https://github.com/rmonier/metroid.git
+   git clone https://github.com/rmonier/devinetor.git
    ```
 2. Devinetor est maintenant prêt à être utilisé.
 
